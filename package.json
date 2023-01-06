@@ -2,10 +2,7 @@
   "name": "my-fullstack-app",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
-  "engines": {
-    "node":"16.x"
-  },
+  "main": "server.js",  
   "scripts": {
     "start": "node dist/server.js",
     "start:dev": "ts-node server.ts",
